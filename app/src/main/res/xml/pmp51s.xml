@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<scheduleforstudent>
+    <day number="1">
+        <lesson
+            number="1"
+            name="Охорона праці в галузі"
+            audience="114"
+            znamennik="0"
+            lector="Яремко З. М."
+            typeofless="0"
+            />
+        <lesson
+            number="1"
+            name="Цивільний захист"
+            audience="114"
+            znamennik="1"
+            lector="Яремко З. М."
+            typeofless="0"
+            />
+        <lesson
+            number="2"
+            name="Сучасні проблеми економіки"
+            audience="439"
+            znamennik="2"
+            lector="Стефанишин О. В."
+            typeofless="0"
+            />
+    </day>
+    <day number="2">
+        <lesson
+            number="1"
+            name="Математичні моделі та системний аналіз"
+            audience="367"
+            znamennik="2"
+            lector="Щербатий М. В."
+            typeofless="0"
+            />
+        <lesson
+            number="2"
+            name="Багатопроцесорні машини та розпаралелення алгоритмів"
+            audience="119-б"
+            znamennik="2"
+            lector="Дудикевич А. Т."
+            typeofless="0"
+            />
+        <lesson
+            number="3"
+            name="Багатопроцесорні машини та розпаралелення алгоритмів"
+            audience="119-б"
+            znamennik="0"
+            lector="Дудикевич А. Т."
+            typeofless="1"
+            />
+        <lesson
+            number="3"
+            name="Застосування засобів MS.NET в проектах для наукових обчислень"
+            audience="119-б"
+            znamennik="1"
+            lector="Гарасим Я. С."
+            typeofless="0"
+            />
+    </day>
+    <day number="3">
+        <lesson
+            number="1"
+            name="Додаткові розділи чисельних методів"
+            audience="261"
+            znamennik="2"
+            lector="Остудін Б. А."
+            typeofless="0"
+            />
+        <lesson
+            number="2"
+            name="Застосування засобів MS.NET в проектах для наукових обчислень"
+            audience="119-б"
+            znamennik="2"
+            lector="Гарасим Я. С."
+            typeofless="1"
+            />
+        <lesson
+            number="3"
+            name="Теорія та методи прийняття рішень"
+            audience="261"
+            znamennik="2"
+            lector="Музичук Ю. А."
+            typeofless="1"
+            />
+    </day>
+    <day number="4">
+        <lesson
+            number="1"
+            name="Комп'ютерні видавничі системи"
+            audience="365"
+            znamennik="2"
+            lector="Муха І. С."
+            typeofless="0"
+            />
+        <lesson
+            number="2"
+            name="Розробка веб-аплікацій"
+            audience="119-а"
+            znamennik="1"
+            lector="Вавричук В. Г."
+            typeofless="0"
+            />
+    </day>
+    <day number="5">
+        <lesson
+            number="1"
+            name="Додаткові розділи чисельних методів"
+            audience="261"
+            znamennik="0"
+            lector="Остудін Б. А."
+            typeofless="1"
+            />
+        <lesson
+            number="1"
+            name="Розробка веб-аплікацій"
+            audience="261"
+            znamennik="1"
+            lector="Вавричук В. Г."
+            typeofless="1"
+            />
+        <lesson
+            number="2"
+            name="Теорія та методи прийняття рішень"
+            audience="265"
+            znamennik="2"
+            lector="Музичук Ю. А."
+            typeofless="0"
+            />
+    </day>
+
+</scheduleforstudent>
